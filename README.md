@@ -76,3 +76,5 @@ Using GPT-2 ensures fast and accurate results without the need for extensive tra
 Generated output samples
 
 Summary of results
+
+<img width="951" height="405" alt="Image" src="https://github.com/user-attachments/assets/318c60f3-0e61-4d28-bb8d-c8f9aa733528" />
